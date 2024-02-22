@@ -3,6 +3,8 @@ body {
     font-family: 'Quicksand', sans-serif;
     max-width: 1000px;
     margin: auto;
+    color: white;
+    background-color: black;
     /* margin: 0; */
     /* overflow: hidden; */
   }
